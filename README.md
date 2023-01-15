@@ -1,4 +1,5 @@
 # Research Background
+## Note: This project was supervised under Dr. Elahe Javadi of the Illinois State University College of Applied Science and Technology 
 
 > Real estate requires meticulous prediction ability from individuals involved, as especially now, in the current saturated market state, it is more important than ever to pose accurate predictions to clients. 
 > My research question deals in this sector by bringing to light the effect of different optimizers on neural network prediction outputs.
